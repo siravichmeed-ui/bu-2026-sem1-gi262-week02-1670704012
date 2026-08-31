@@ -10,7 +10,7 @@ namespace Assignment
 
         void Start()
         {
-             LCT01_SyntaxArray();
+            // LCT01_SyntaxArray();
             // LCT02_ArrayInitialize();
             // LCT03_SyntaxLoop();
             // LCT04_LoopAndArray();
